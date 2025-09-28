@@ -1,0 +1,5 @@
+{
+  "name": "Trình kiểm tra chính tả DOCX",
+  "description": "Một ứng dụng web để tải lên tệp .docx, kiểm tra chính tả và so sánh văn bản gốc với văn bản đã sửa. Cho phép tải xuống tệp đã sửa.",
+  "requestFramePermissions": []
+}
